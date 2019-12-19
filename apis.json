@@ -1,0 +1,53 @@
+{
+    "name": "Sprawk",
+    "description": "Sprawk helps you translate your website your way, and within your budget - reaching more customers and increasing sales.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1479-sprawk.jpg",
+    "tags": [
+        "have api",
+        "languages",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sprawk\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sprawk",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1479-sprawk.jpg",
+            "humanURL": "https:\/\/www.sprawk.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sprawk-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/market.mashape.com\/sprawk\/language-detection"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.sprawk.com\/en_US\/features"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.sprawk.com\/en_US\/features"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SprawkTranslate"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.sprawk.com"
+        }
+    ]
+}
